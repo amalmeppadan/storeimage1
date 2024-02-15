@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829582636632",
+    "project_id": "storeimage-e8a2c",
+    "storage_bucket": "storeimage-e8a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829582636632:android:067d3cd4552a11db613c2d",
+        "android_client_info": {
+          "package_name": "com.example.storeimage1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHkDw38YKquDK5cziDdCvskTXTsk3xL30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
